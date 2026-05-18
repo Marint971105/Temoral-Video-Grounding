@@ -57,6 +57,10 @@
 9. [TIME: Temporal-Sensitive Multi-Dimensional Instruction Tuning and Robust Benchmarking for Video-LLMs](https://ojs.aaai.org/index.php/AAAI/article/view/38002)
 10. [ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/38387)
 
-#ARxiv
+#其他
 1. [Structured Causal Video Reasoning via Multi-Objective Alignment](https://arxiv.org/html/2604.04415v1)
+2. [MITIGATING MODALITY PRIOR-INDUCED HALLUCINATIONS IN MULTIMODAL LARGE LANGUAGE MODELS VIA DECIPHERING ATTENTION CAUSALITY](https://arxiv.org/abs/2507.16878)
+3. [TRACE: Temporal Grounding Video LLM via Casual Event Modeling](https://arxiv.org/pdf/2410.05643)
+4. [Causal Sufficiency and Necessity Improves Chain-of-Thought Reasoning](https://arxiv.org/abs/2506.09853)
+5. [Causal Inference with Large Language Model: A Survey](https://arxiv.org/pdf/2409.09822)
    

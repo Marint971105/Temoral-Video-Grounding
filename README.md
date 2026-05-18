@@ -40,7 +40,21 @@
 # GRPO论文
 1. [Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](https://arxiv.org/pdf/2511.16669)
    - [代码实现](https://video-as-answer.github.io/)
-     
+
+# 2026 AAAI
+# 视频大语言模型相关论文整理
+
+## 相关论文列表
+1. [SpaceVLLM: Endowing Multimodal Large Language Model with Spatio-Temporal Video Grounding Capability](https://ojs.aaai.org/index.php/AAAI/article/view/37956)
+2. [VAGU & GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/42412)
+3. [GranAlign: Granularity-Aware Alignment Framework for Zero-shot Video Moment Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/37444)
+4. [TEMPLE: Incentivizing Temporal Understanding of Video Large Language Models via Progressive Pre-SFT Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/37565)
+5. [CausalStep: A Benchmark for Explicit Stepwise Causal Reasoning in Videos](https://ojs.aaai.org/index.php/AAAI/article/view/37582)
+6. [NeuS-QA: Grounding Long-Form Video Understanding in Temporal Logic and Neuro-Symbolic Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/37834)
+7. [Causality Matters: How Temporal Information Emerges in Video Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/37856)
+8. [TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/37896)
+9. [TIME: Temporal-Sensitive Multi-Dimensional Instruction Tuning and Robust Benchmarking for Video-LLMs](https://ojs.aaai.org/index.php/AAAI/article/view/38002)
+10. [ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/38387)
 # casual论文
 1. [Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs](https://github.com/falonss703/VideoThinker)
    - [代码实现](https://github.com/falonss703/VideoThinker)

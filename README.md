@@ -20,7 +20,7 @@
    - [代码实现](https://github.com/Florence365/GroundVTS)
      
 7. [OmniVTG: A Large-Scale Dataset and Training Paradigm for Open-World Video Temporal Grounding](https://minghangz.github.io/publication/omnivtg/#)
-   - [代码实现](https://minghangz.github.io/publication/omnivtg/#) 暂无内容
+   - [代码实现](https://minghangz.github.io/publication/omnivtg/#)
      
 8. [CVA: Context-aware Video-text Alignment for Video Temporal Grounding](https://arxiv.org/pdf/2603.24934)
    - [代码实现](https://byeol3325.github.io/projects/CVA/)

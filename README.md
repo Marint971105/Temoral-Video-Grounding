@@ -56,3 +56,7 @@
 8. [TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/37896)
 9. [TIME: Temporal-Sensitive Multi-Dimensional Instruction Tuning and Robust Benchmarking for Video-LLMs](https://ojs.aaai.org/index.php/AAAI/article/view/38002)
 10. [ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/38387)
+
+#ARxiv
+1. [Structured Causal Video Reasoning via Multi-Objective Alignment](https://arxiv.org/html/2604.04415v1)
+   

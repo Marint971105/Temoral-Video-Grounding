@@ -1,4 +1,4 @@
-# Temoral-Video-Grounding
+# Temporal-Video-Grounding
 # 2026 CVPR
 ## VTG论文 & 代码阅读清单
 1. [T2SGrid: Temporal-to-Spatial Gridification for Video Temporal Grounding](https://arxiv.org/pdf/2603.06973)
